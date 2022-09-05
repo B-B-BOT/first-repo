@@ -1,0 +1,8 @@
+git init or git clone repo_url
+
+git add .
+
+git commit -m "your commit message"
+
+git push
+
